@@ -1,0 +1,13 @@
+.reviews-container {
+  margin-top: 1rem;
+  display: flex;
+
+  .stars {
+    margin: 0 2px;
+    color: rgb(255, 185, 0);
+  }
+  p {
+    margin-left: 1rem;
+    transform: translateY(-2px);
+  }
+}

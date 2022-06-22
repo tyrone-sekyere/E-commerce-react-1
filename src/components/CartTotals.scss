@@ -1,0 +1,27 @@
+.cart-totals-section {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--clr-grey-8);
+  border-radius: 5px;
+  padding: 1.5rem 3rem;
+  h5,
+  p,
+  h4 {
+    display: flex;
+    padding-right: 1rem;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  h4 {
+    margin-top: 2rem;
+  }
+}
+.checkout-btn {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  width: 400px;
+  font-weight: bold;
+}
